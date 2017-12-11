@@ -1,5 +1,5 @@
 <?php
-/*   include('scripts/connect_to_mysql.php');
+   include('scripts/connect_to_mysql.php');
    session_start();
    
    $user_check = $_SESSION['login_user'];
@@ -13,4 +13,4 @@
    if(!isset($_SESSION['login_user'])){
       header("location:admin_check.php");
    }
-?> */
+?> 
